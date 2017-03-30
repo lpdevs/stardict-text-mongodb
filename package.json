@@ -1,0 +1,19 @@
+{
+  "name": "stardict-text-mongodb",
+  "version": "1.0.0",
+  "description": "stardict txt mongodb mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stardict.txt",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "lpdevs",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.9.1",
+  }
+}
